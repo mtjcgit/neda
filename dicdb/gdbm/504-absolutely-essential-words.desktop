@@ -1,0 +1,11 @@
+[NedaDatabase]
+Name=504 absolutely essential words
+Type=gdbm
+Version=1.0
+Icon=
+Description=
+Path=/usr/local/share/dicdb/gdbm
+DBFile=504-absolutely-essential-words.gdb
+Author=Mohammad Taqi Jafari
+AuthorEmail=mchemtux@gmail.com
+License=GPL

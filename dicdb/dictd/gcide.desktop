@@ -1,0 +1,18 @@
+[NedaDatabase]
+Name=dict gcide
+Type=dict
+Version=1.0
+Icon=default.png
+GenericName=
+Description=A Comprehensive English Dictionary
+Comment=
+Path=/usr/share/dictd
+DBFile=gcide.dict.dz
+INCEXTERNALFILES=flase
+Copyright=(c) 2008-2009 mtj.
+Author=Mohammad Taqi Jafari
+Author[fa]=محمد تقی جعفری
+AuthorEmail=mchemtux@gmail.com
+Encoding=UTF-8
+License=GPL
+Group=
