@@ -1,0 +1,3 @@
+qmake-qt4 -spec win32-g++
+
+ftp://ftp.qt.nokia.com/qt/source/qt-win-opensource-4.7.0-mingw.exe

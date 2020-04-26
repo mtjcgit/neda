@@ -1,0 +1,12 @@
+QMAKE_CC=/usr/bin/i586-mingw32msvc-gcc
+QMAKE_CXX=/usr/bin/i586-mingw32msvc-g++
+QMAKE_INCDIR=/usr/i586-mingw32msvc/include
+QMAKE_MOC=/usr/local/share/qt4-mingw/bin/moc.exe
+QMAKE_UIC=/usr/local/share/qt4-mingw/bin/uic.exe
+QMAKE_INCDIR_QT=/usr/local/share/qt4-mingw/include
+QMAKE_LIBDIR_QT=/usr/local/share/qt4-mingw/lib
+QMAKE_LINK=/usr/bin/i586-mingw32msvc-g++
+QMAKE_LINK_C=/usr/bin/i586-mingw32msvc-gcc
+QMAKE_STRIP=/usr/bin/i586-mingw32msvc-strip
+QMAKE_LFLAGS=-mthreads -Wl,-enable-stdcall-fixup -Wl,-enable-auto-import -Wl,-enable-runtime-pseudo-reloc -mwindows
+QMAKE_RC=/usr/bin/i586-mingw32msvc-windres
