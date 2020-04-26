@@ -1,2 +1,2 @@
 # neda
-New Educational dictionary Assistant Repository
+New Educational Dictionary Assistant Repository
