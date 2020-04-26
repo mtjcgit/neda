@@ -1,0 +1,16 @@
+Source: neda
+Section: utils
+Priority: optional
+Maintainer: Mohammad Taqi Jafari <mchemtux@users.sf.net>
+Build-Depends: debhelper (>= 5), cdbs, qt4-qmake, libqt4-dev, libgdbm-dev, libphonon-dev, zlib1g-dev, libzim-dev, wordnet-dev
+Standards-Version: 3.8.1
+Homepage: 
+
+Package: neda
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Suggests: dict, dict-gcide, dict-elements, dictionaries-common
+Description: neda dictionary
+ Neda is a Qt based, multilingual dictionary that work with both 
+ static and web based databases. neda provides a comfortable user
+ interface to manage user databases.
