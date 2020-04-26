@@ -1,0 +1,17 @@
+<tip>
+<html>
+<p>You can stay up to date with new developments and releases
+by regularly checking the home page:<br>
+<a HREF="http://neda-dictionary.sourceforge.net/">http://neda-dictionary.sourceforge.net/</a>.</p>
+<br>
+<center><img src="neda.png"></center></p>
+</html>
+</tip>
+
+<tip category="General">
+<html>
+<p>
+Neda is based on C++ foundation. C++ is a programming
+language well suited to desktop development.
+</html>
+</tip>

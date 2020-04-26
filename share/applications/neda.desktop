@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Neda
+Name[fa]=ندا
+Comment=Neda Dictionary
+GenericName=neda dictionary
+GenericName[fa]=فرهنگ ندا
+Exec=neda
+Icon=neda
+Type=Application
+X-KDE-StartupNotify=false
+Categories=Dictionary;Utility;Qt;
